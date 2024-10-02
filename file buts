@@ -1,11 +1,11 @@
 on: <imagesubcrition src="/assests/subs/subs-cjm.png.file
-href: '#',
-      export conts location_bawen_home : 82138207113[]= [-
+href:export conts location_bawen_home : 282138207113[]= [-
+code:282138207113
       export conts item-name : people i know [] = {-
 icon: <imagesubrition src=/assests/subs-com 
       export conts area : startspawnstartspawn,  monsterTow []={-
       export Difficulty > exposing APIs
-cout:<<"jenis kelamin : perempuan
+cout:<<"gender : women 
 cout:<<"whois he close to: my friend
 Cout:<<"[-------------------------------------------]
 Cout:<<"do you really like that girl? :yes
@@ -14,3 +14,14 @@ icon:<<"what about him?
        answer>she is beautiful, kind and doesn't do anything strange
      <<" What do you admire?
        answer>Yes, I really admire him 
+input whatsapp<<"name_email_Number” []=[whatsapp.web]
+      "D34_**********_282138207113" [1]
+      chat history:282138207113
+person :1.bagas [friend]=[cousin]
+        2.irul [friend]=[darling]
+        3.rizal [friend]
+        4.doni [friend]
+        5.arif [savings]
+      
+
+
