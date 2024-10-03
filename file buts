@@ -17,6 +17,9 @@ icon:<<"what about him?
 input whatsapp<<"name_email_Number” []=[whatsapp.web]
       "D34_**********_282138207113" [1]
       chat history:282138207113
+input Instagram[<<"name_email">>]=[282138207113]
+      "INS_**********_282138207113
+
 
 
 
